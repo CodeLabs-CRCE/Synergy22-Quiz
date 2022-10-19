@@ -1,1 +1,1 @@
-"# Synergy22-Quiz" 
+# Synergy22-Quiz
