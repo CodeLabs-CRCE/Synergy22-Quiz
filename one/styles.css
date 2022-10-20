@@ -5,7 +5,7 @@ body{
 
 .card-container{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
 }
 
 .centered-text{
