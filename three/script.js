@@ -1,6 +1,5 @@
 const topics = [
     "Science",
-    "Art",
     "History",
     "Geography", 
     "TV & Movies", 
