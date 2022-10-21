@@ -3,7 +3,7 @@ const topics = [
     "Art",
     "History",
     "Geography", 
-    "Movies and Cinema", 
+    "TV & Movies", 
     "Maths", 
     "General Knowledge", 
     "Sports", 
